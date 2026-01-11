@@ -1,0 +1,5 @@
+1. How to connect to database driver
+    i. Download zip file of driver from the website (ex. download mysql j)
+    ii. Extract the zip file and check the jar file is downloaded correctly or not.
+    iii. Go to project settings of intelliJ and go to library section then add the jar file here.
+    iv. Then try to connect the mysql.
