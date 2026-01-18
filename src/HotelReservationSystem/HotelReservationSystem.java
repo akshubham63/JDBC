@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class HotelReservationSystem {
     private static final String url = "jdbc:mysql://localhost:3306/hotel_db";
     private static final String username = "root";
-    private static final String password = "Shubham@16$2000";
+    private static final String password = "abc@16"; // Add SQL password to interact with db
     public static void main(String[] args) throws ClassNotFoundException, SQLException{
         loadDriver();
         try{
